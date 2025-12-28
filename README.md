@@ -23,7 +23,7 @@ You provide:
 > When a new user signs up or is registered in the system.
 
 <p align="center">
-<img src="./images/customer_api/%231_customer_creation.png" width="80%">
+<img src="./images/customer_api/%231_customer_creation.png" width="100%">
 </p>
 <p align="center"><em>Create Customer</em></p>
 
@@ -43,7 +43,7 @@ It returns:
 > To view customer profile or address details.
 
 <p align="center">
-<img src="./images/customer_api/%232_get_customer_by_id.png" width="80%">
+<img src="./images/customer_api/%232_get_customer_by_id.png" width="100%">
 </p>
 <p align="center"><em>Get Customer by ID</em></p>
 
@@ -63,7 +63,7 @@ You can update:
 > When a customer edits their profile details.
 
 <p align="center">
-<img src="./images/customer_api/%233_update_customer.png" width="80%">
+<img src="./images/customer_api/%233_update_customer.png" width="100%">
 </p>
 <p align="center"><em>Update Customer</em></p>
 
@@ -78,7 +78,7 @@ This API removes a customer from the system.
 > When a customer account is permanently deleted.
 
 <p align="center">
-<img src="./images/customer_api/%234_delete_customer_by_id.png" width="80%">
+<img src="./images/customer_api/%234_delete_customer_by_id.png" width="100%">
 </p>
 <p align="center"><em>Delete Customer by ID</em></p>
 
@@ -103,7 +103,7 @@ You provide:
 > When a customer places a new order.
 
 <p align="center">
-<img src="./images/order_api/%231_order_creation.png" width="80%">
+<img src="./images/order_api/%231_order_creation.png" width="100%">
 </p>
 <p align="center"><em>Order Creation</em></p>
 
@@ -125,7 +125,7 @@ It returns:
 > To show order summary or order tracking information.
 
 <p align="center">
-<img src="./images/order_api/%232_get_order_by_id.png" width="80%">
+<img src="./images/order_api/%232_get_order_by_id.png" width="100%">
 </p>
 <p align="center"><em>Get Order by ID</em></p>
 
@@ -145,7 +145,7 @@ You can update:
 > When a customer changes delivery or billing address after ordering.
 
 <p align="center">
-<img src="./images/order_api/%235_update.png" width="80%">
+<img src="./images/order_api/%235_update.png" width="100%">
 </p>
 <p align="center"><em>Update Order</em></p>
 
@@ -162,7 +162,7 @@ All order items linked to the order are also deleted automatically.
 > When an order is cancelled.
 
 <p align="center">
-<img src="./images/order_api/%233_delete_order.png" width="80%">
+<img src="./images/order_api/%233_delete_order.png" width="100%">
 </p>
 <p align="center"><em>Delete Order</em></p>
 
@@ -185,7 +185,7 @@ You provide:
 > When a customer adds another product to the same order.
 
 <p align="center">
-<img src="./images/order_api/%234_item_creation.png" width="80%">
+<img src="./images/order_api/%234_item_creation.png" width="100%">
 </p>
 <p align="center"><em>Item Creation</em></p>
 
@@ -205,7 +205,7 @@ You can update:
 > When a customer changes the quantity of a product.
 
 <p align="center">
-<img src="./images/order_api/%235_update.png" width="80%">
+<img src="./images/order_api/%235_update.png" width="100%">
 </p>
 <p align="center"><em>Update Order Item</em></p>
 
@@ -220,7 +220,7 @@ This API removes a product from an order.
 > When a customer removes an item from their order.
 
 <p align="center">
-<img src="./images/order_api/%236_delete.png" width="80%">
+<img src="./images/order_api/%236_delete.png" width="100%">
 </p>
 <p align="center"><em>Delete Order Item</em></p>
 
