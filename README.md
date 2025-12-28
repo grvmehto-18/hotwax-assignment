@@ -21,7 +21,7 @@ You provide:
 **Example use:**
 
 > When a new user signs up or is registered in the system.
-
+![Alt text](images/customer/#1)
 ---
 
 ### 2. Get Customer Details – `GET /customers/{customerId}`
