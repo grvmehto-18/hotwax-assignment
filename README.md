@@ -21,7 +21,12 @@ You provide:
 **Example use:**
 
 > When a new user signs up or is registered in the system.
-![Alt text](images/customer/#1)
+<p align="center">
+  <img src="images/customer_api/#1_customer_creation.png" width="45%">
+  <img src="images/customer_api/#1_customer_creation.png" width="45%">
+</p>
+<p align="center"><em>Create Customer</em></p>
+
 ---
 
 ### 2. Get Customer Details – `GET /customers/{customerId}`
